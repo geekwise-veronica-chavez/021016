@@ -1,5 +1,57 @@
-body{background-color: antiquewhite
-    font-family: 'Slabo 27px', serif;}
+body{
+    background-color: beige;
+    font-family: 'Slabo 27px', serif;
+}
 
-#bistro{ width: 350px;
-    max-width: 400px;}
+
+aside{
+    background-color: burlywood;
+    font-size: 18px;
+}
+header{
+    text-align: center;
+    font-size: 36px;
+    background-color: burlywood;
+    padding: 0;
+    margin: 0 auto;
+    width: 90%;
+   
+}
+article{ 
+    text-align: auto;
+    margin: auto 0;
+    padding: 0;
+    width: 100%;
+    
+    }
+div{
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+    padding: 0;
+    background-color: burlywood;
+}
+#left{ 
+    float: left;
+    width: 50%
+    
+}
+#right{
+   float: right;
+    width: 50%;
+    height: 45px:
+    
+}
+span{
+    text-align: center;
+    text-decoration-style: solid;
+}
+section{
+    margin: auto 0;
+}
+#submit{
+    text-align: center;
+    }
+address{
+    text-align: right;
+}
