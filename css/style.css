@@ -1,5 +1,9 @@
-body{background-color: antiquewhite
-    font-family: 'Slabo 27px', serif;}
+body{
+    background-color:#dcf9dc;
+    font-family: 'Slabo 27px', serif;
+}
 
-#bistro{ width: 350px;
-    max-width: 400px;}
+#bistro{
+    width: 350px;
+    max-width: 400px;
+}
