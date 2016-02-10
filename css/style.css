@@ -1,4 +1,5 @@
 body{
+<<<<<<< HEAD
     background-color: beige;
     font-family: 'Slabo 27px', serif;
 }
@@ -54,4 +55,13 @@ section{
     }
 address{
     text-align: right;
+=======
+    background-color:#dcf9dc;
+    font-family: 'Slabo 27px', serif;
+}
+
+#bistro{
+    width: 350px;
+    max-width: 400px;
+>>>>>>> origin/master
 }
